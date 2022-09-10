@@ -9,4 +9,6 @@ Convert a single vmess link to a crash configuration file.
 python SVTC.py vmess://xxxxxxxxxxxxxxxxx
 
 ```
-copy SVTC.yaml to your Clash configuration folder.
+Copy SVTC.yaml to your Clash configuration folder.
+
+复制 SVTC.yaml文件到你的Clash配置文件目录下。
