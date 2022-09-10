@@ -1,5 +1,6 @@
 # SVTC
 单个Vmess链接转换成Clash配置文件
+
 Convert a single vmess link to a crash configuration file.
 
 ## Use
